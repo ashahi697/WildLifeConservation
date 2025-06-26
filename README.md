@@ -1,3 +1,3 @@
 # WildLifeConservation
-## Main Idea:##
+## Main Idea:
 
