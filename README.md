@@ -1,7 +1,7 @@
 # WildLifeConservation
 
 ## Main Idea:
-The main idea of this project is to show the negative impact humans have on the environment; specifically on wildlife and their ecosystems. This project will include visual represenations and data that highlight animal species that are currently at risk or already extinct. Along with the causes of their endangerment and extinctions.
+The main idea of this project is to show the negative impact humans have on the environment; specifically on wildlife and their ecosystems. This project will help us identify the most threatened species and its causes. Through data cleaning and visualizations, we seek to find out what pattern in driving a certain species towards endangerment.
 
 
 ## Data Pulling:
