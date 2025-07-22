@@ -19,11 +19,11 @@ Plant Data Frame - this showed the quantity of plants that are endangered among 
 ## Visualizations:
 For our visualizations we used three different types. A pie chart, a stacked bar graph, and a bar graph.
 
-Pie Chart - our pie chart showed us 
+Pie Chart - our pie chart showed us a percentage based on what creatures are most endangered amongst those that can be deemed terrestrial, aquatic, and as plants as a whole. From the pie chart created it is very evident that plants are the most affected and have the highest amount of endangered species.
 
-Stacked Bar Graph - the stacked bar graph gave us 
+Stacked Bar Graph - the stacked bar graph gave us a really good overview of what our data gave us. We broke up our data into the categories: ivertabrates, vertabrates, and plants. With this we assigned colors to certain animals so that way we can fit all of our animals in one graph without sacrificiing space along our axes and we can keep our graphs clean and consice.
 
-Bar Graph - our bar graph showed us the distribution of endangered species among the given data frame we depicted
+Bar Graph - our bar graphs showed us the distribution of endangered species among the given data frame we depicted.
 
 ## Story:
 The goal of this project is to educate and inform people on the threats to wildlife caused by human activity; an issue that is still taking place and harming the world globally. Our objective is to help raise awareness and  let the public see the importance of wildlife conservation. All in all, we hope to motivate others to take action and protect the our wildlife since it plays a vital role in the natural environment.
